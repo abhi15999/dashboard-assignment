@@ -1,0 +1,20 @@
+{
+    "Row_1": {
+        "Tile_1": {
+            "today_order": "200",
+            "current_week_order": "450"
+        },
+        "Tile_2": {
+            "today_order_amount": "20000",
+            "current_week_amount": "45000"
+        },
+        "Tile_3": {
+            "mtd_order": "400",
+            "last_month_order": "200"
+        },
+        "Tile_4": {
+            "mtd_order_amount": "65000",
+            "last_month_amount": "45000"
+        }
+    }
+}
